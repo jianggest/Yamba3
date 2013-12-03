@@ -101,6 +101,11 @@ TextWatcher{
 
 		  inflater.inflate(R.menu.menu, menu);         // 
 
+		  //this is for the test commit.
+		  
+		  
+		  
+		  
 		  return true; // 
 
 		}
